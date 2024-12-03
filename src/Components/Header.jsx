@@ -12,9 +12,10 @@ const Header = () => {
       style={{
         position: "fixed",
         display: "flex",
+        color: "#cd632d",
         justifyContent: "center",
         gap: "2rem",
-        background: "rgba(255,255,255,0.75)",
+        background: "rgba(205, 99, 45, 0.75)", // This line sets the background color and transparency of the div
         padding: "1rem",
         top: 0,
         width: "100%",

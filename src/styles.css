@@ -17,6 +17,7 @@ body {
 div#main {
   display: flex;
   flex-direction: column;
+  color: #cd632d;
   width: 100vw;
 }
 
@@ -47,6 +48,7 @@ section img.background {
 
 h1 {
   font-family: "Cormorant Garamond", serif;
+  color: #cd632d;
   font-size: 7rem;
   font-weight: 400;
   line-height: 0.8;
